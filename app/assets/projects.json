@@ -1,0 +1,24 @@
+{
+	"Projets1":[
+	
+	{"name" : "Simulation des déplacements de la population d'un campus",
+	"annee" : "2014-2015",
+	"outils" : "Java (IDE : Eclipse)",
+	"description" : "J'ai participé à la partie 'Architecture Logicielle' de ce projet"
+	},
+	{"name" : "Simulation de la commande d'un robot",
+	"annee" : "2014-2015",
+	"outils" : "C++, Visual Paradigm",
+	"description" : "Simulation de la commande d'un robot à partir du fichier d'entrée standard. La majeure partie du projet a été dédiée à la conception en UML"
+	},
+	{"name" : "DeViNT",
+	"annee" : "2013-2014",
+	"outils" : "Java (IDE : Eclipse)",
+	"description" : "Développement d'un jeu adapté aux personnes déficientes visuelles"
+	}
+],
+
+	"Projets2":[
+		{"name" : "aucun"}
+	]
+}

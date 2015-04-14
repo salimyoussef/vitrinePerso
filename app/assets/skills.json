@@ -1,0 +1,21 @@
+{
+	"Programmation":[
+	
+	{"name" : "Langages principaux : Java, C++, C"
+	},
+	{"name" : "Autres : Ada, OCaml, Scheme"
+	}
+	],
+
+	"Web":[
+
+	{"name" : "HTML"
+	},
+	{"name" : "CSS"
+	},
+	{"name" : "XSD Schema"
+	},
+	{"name" : "Angular JS"
+	}
+	]
+}

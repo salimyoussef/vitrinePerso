@@ -1,0 +1,24 @@
+<ul>
+	<h1> Quelques projets que j'ai menés seul ou en groupe </h1>
+	<br>
+	<h2>Projets menés dans le cadre de mes formations</h2>
+	<li ng-repeat = "projet in projects.Projets1">
+		<p><b>{{projet.name}}</b></p>
+		<p>{{projet.annee}}</p>
+		<p>Outils utilisés : {{projet.outils}}</p>
+		<p>{{projet.description}}</p>
+	</li>
+	<br>
+	<h2>Projets menés en dehors du cadre des enseignements</h2>
+	<li ng-if = "projects.Projets2[0].name == 'aucun'">
+		<p>Aucun</p>
+	</li>
+	<!--<li ng-if = "!(projects.Projets2[0].name == 'aucun')">
+		<li ng-repeat = "projet in projects.Projets2">
+			<p>{{projet.name}}</p>
+			<p>{{projet.annee}}</p>
+			<p>Outils utilisés : {{projet.outils}}</p>
+			<p>{{projet.description}}</p>
+		</li>
+	</li>-->
+</ul>

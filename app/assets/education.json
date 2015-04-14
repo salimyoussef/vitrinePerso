@@ -1,0 +1,19 @@
+{
+	"formation":[
+	{"name": "Lycée Descartes",
+	"annee" : "2008-2011",
+	"description" : "Préparation du baccalauréat (obtention en 2011 avec mention 'Assez bien')",
+	"lieu" : "Rabat - Maroc"
+	},
+	{"name" : "Polytech'Grenoble",
+	"annee" : "2011-2013",
+	"description" : "Classes préparatoires intégrées - essentiellement deux années de licence en formation 'Mathématiques et Informatique'",
+	"lieu" : "Saint-Martin-d'Hérès - France"
+	},
+	{"name" : "Polytech'Nice-Sophia",
+	"annee" : "2013-Présent",
+	"description" : "Formation en Sciences de l'informatique",
+	"lieu" : "Biot - France"
+	}
+]
+}
